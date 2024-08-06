@@ -6,7 +6,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/beanhac/beanhac.club/
 
 # <b>Changelog</b>
 
-## Release 1.0.0
+## Pre-Release 1.0.0
 - Website Release
 - Loader Release
 - Switched to loading from workspace
+- Switched UI from BeanUI to Linoria
